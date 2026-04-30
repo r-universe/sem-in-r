@@ -5,3 +5,6 @@
 [submodule "seminr"]
 	path = seminr
 	url = https://github.com/sem-in-r/seminr
+[submodule "seminrExtras"]
+	path = seminrExtras
+	url = https://github.com/sem-in-r/seminrextras
